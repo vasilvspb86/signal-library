@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+# Signal Library pre-commit hook.
+# Validates every staged file under signals/active/ via the Python CLI.
+
+set -e
+
+# Get list of staged .md files under signals/active/
+staged=$(git diff --cached --name-only --diff-filter=ACM | grep -E '^signals/active/.*\.md$' || true)
+
+if [ -z "$staged" ]; then
+  exit 0
+fi
+
+# Run the validator
+python -m validate_signals.cli $staged --taxonomy signals/_taxonomy.yml
