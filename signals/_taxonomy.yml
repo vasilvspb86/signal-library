@@ -19,6 +19,10 @@ domains:
   - Finance
   - Hospitality
   - Manufacturing
+  # Added 2026-05-22 to match Compas dashboard import
+  - Communication
+  - Society
+  - Wellbeing
 
 compas_segments:
   1:
