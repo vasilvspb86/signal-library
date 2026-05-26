@@ -1,0 +1,127 @@
+# Controlled vocabulary for Signal Library.
+# Pre-commit hook validates every active signal's `domain` is in `domains`,
+# `compas_segment` is in 1..8, and `macrotrend` is in that segment's list.
+# Spec ref: §3.3 of design doc.
+
+domains:
+  - Workplace
+  - Mobility
+  - Home
+  - Education
+  - Health
+  - Retail
+  - Energy
+  - Branding
+  - Knowledge
+  - Community
+  - AI
+  - Privacy
+  - Finance
+  - Hospitality
+  - Manufacturing
+
+compas_segments:
+  1:
+    name: Self-care
+    base_request: "Избавь меня от боли / оптимизируй моё состояние"
+    macrotrends:
+      - Fantomatica
+      - Deep Customisation
+      - Emotional AI
+  2:
+    name: Safety
+    base_request: "Защити мои границы"
+    macrotrends:
+      - Data Edge
+      - New Privacy
+      - Ambient Intelligence
+  3:
+    name: Autonomy
+    base_request: "Дай мне контроль над ресурсами"
+    macrotrends:
+      - Global Habitability
+      - Sovereignty
+      - Independence
+  4:
+    name: Interconnectedness
+    base_request: "Соедини с теми, кто полезен для общего выживания"
+    macrotrends:
+      - Distributed Innovations
+      - Post Smart City
+      - Sustainable Development
+  5:
+    name: Self-expression
+    base_request: "Дай право быть уникальным и услышанным"
+    macrotrends:
+      - Democratisation of Creativity
+      - Post New Materials
+      - Next Nature
+  6:
+    name: Belonging
+    base_request: "Мне нужны свои"
+    macrotrends:
+      - Planetocentricity
+      - Social Capital
+      - Compatibilitas
+  7:
+    name: Responsibility
+    base_request: "Помоги найти внутреннюю опору"
+    macrotrends:
+      - Mental & Emotional Wellbeing
+      - True Self & Identity
+      - Physicalisation
+  8:
+    name: Care for others
+    base_request: "Как я могу служить целому?"
+    macrotrends:
+      - Cognitive Shift
+      - Unity-Centricity
+      - Complementarity
+
+diffusion_stages:
+  - Emerging
+  - Innovator
+  - Early Adopter
+  - Early Majority
+  - Mainstream
+
+categories:
+  - Social
+  - Economic
+  - Technological
+  - Political
+  - Scientific
+  - Ecological
+  - Design Experience
+
+players:
+  - Multinationals
+  - Corporates
+  - SME
+  - Government
+  - Public
+  - NFP
+  - Individuals
+
+scopes:
+  - Global
+  - Widespread
+  - Sector
+  - Niche
+  - Limited
+
+disruptiveness_levels:
+  - Insignificant
+  - Minor
+  - Moderate
+  - Major
+  - Significant
+
+time_horizons:
+  - "1–4"
+  - "5–9"
+  - "10–14"
+  - "15–19"
+  - "20+"
+
+schema_version: 1
