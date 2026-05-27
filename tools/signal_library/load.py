@@ -29,6 +29,7 @@ class Signal:
     shift_to: str | None = None
     trend: str | None = None
     microtrend: str | None = None
+    next: str | None = None
     tags: list[str] = field(default_factory=list)
     # Raw frontmatter for any consumers that want the lot
     raw: dict = field(default_factory=dict)
@@ -66,6 +67,7 @@ def load_active_signals(vault_root: Path) -> list[Signal]:
                 shift_to=fm.get("shift_to") or None,
                 trend=fm.get("trend") or None,
                 microtrend=fm.get("microtrend") or None,
+                next=fm.get("next") or None,
                 tags=fm.get("tags", []) or [],
                 raw=fm,
                 source_path=md,
