@@ -48,6 +48,6 @@ The dominant AI paradigm treats the brain as an electronic-computational system 
 - **From:** electronic-computational paradigm
 - **To:** cognitive-biological quantum systems
 ## Bridge Map
-- [[]]
-- [[]]
-- [[]]
+- [[sciencedaily]]
+- [[royal-society]]
+- [[emotiv]]
