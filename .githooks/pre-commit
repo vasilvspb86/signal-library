@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 # Signal Library pre-commit hook.
-# Validates every staged file under signals/active/ via the Python CLI.
+# 1. Hard validation (validate_signals.cli) — BLOCKS commit on failure.
+# 2. Soft lint (validate_signals.lint) — warnings only, never blocks.
 
 set -e
 
@@ -11,5 +12,8 @@ if [ -z "$staged" ]; then
   exit 0
 fi
 
-# Run the validator
+# 1. Hard validation — blocks on failure
 python -m validate_signals.cli $staged --taxonomy signals/_taxonomy.yml
+
+# 2. Soft lint — advisory only (always exits 0)
+python -m validate_signals.lint $staged || true
