@@ -26,6 +26,8 @@ cross_industry: []
 source_channel: ""
 shift_from: ""                          # Structured FROM (alt to body section)
 shift_to: ""                            # Structured TO
+trend: ""                               # One-line trend name this signal belongs to
+microtrend: ""                          # More specific micro-trend formulation
 
 tags: []
 ---
