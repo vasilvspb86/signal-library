@@ -23,6 +23,8 @@ domains:
   - Communication
   - Society
   - Wellbeing
+  # Added 2026-06-05
+  - Travel
 
 compas_segments:
   1:
