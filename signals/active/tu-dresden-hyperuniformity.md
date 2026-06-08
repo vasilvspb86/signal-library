@@ -2,6 +2,7 @@
 status: draft
 captured_at: 2026-05-29
 captured_via: boosty-ai-extract
+verified_at: 2026-05-29
 schema_version: 1
 id: tu-dresden-hyperuniformity
 name: TU Dresden Hyperuniformity Exhibit
