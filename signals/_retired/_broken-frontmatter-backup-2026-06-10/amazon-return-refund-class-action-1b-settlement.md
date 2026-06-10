@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: amazon-return-refund-class-action-1b-settlement
-name: 'Amazon (In re: Amazon Return Policy Litigation)'
+name: Amazon (In re: Amazon Return Policy Litigation)
 year: 2026
 url: https://evilcorporations.com/amazon-corporate-misconduct-refund-fraud-class-action-greed/
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Retail
 human_task: Protect consumers' financial boundaries from automated retail systems that silently reverse refunds, knowing most victims will never notice the extraction.
 existential_essence: Protect consumers' financial boundaries from automated retail systems that silently reverse refunds, knowing most victims will never notice the extraction.

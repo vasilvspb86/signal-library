@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: death-of-the-secret-radical-inferability
-name: '"The Death of the Secret" (The Structural Lens)'
+name: "The Death of the Secret" (The Structural Lens)
 year: 2026
 url: https://harmoniousdiscourse.substack.com/p/the-death-of-the-secret
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Privacy
 human_task: Protect the unspoken interior of a person—the thoughts, dispositions, and health states never disclosed—from being reconstructed by inference engines that require no confession and breach no record.
 existential_essence: Protect the unspoken interior of a person—the thoughts, dispositions, and health states never disclosed—from being reconstructed by inference engines that require no confession and breach no record.
@@ -17,7 +17,7 @@ diffusion_stage: Innovator
 time_horizon: Foundational legal gap now
 disruptiveness: Major
 tags: []
-shift_from: 'Privacy law was built around the movement of existing facts: collection, consent, disclosure, breach. The inner life was safe because it was physically unreachable without the person choosing to speak.'
+shift_from: Privacy law was built around the movement of existing facts: collection, consent, disclosure, breach. The inner life was safe because it was physically unreachable without the person choosing to speak.
 shift_to: Radical inferability means sensitive attributes—including health states, pregnancy, and mental condition—can be synthesised from ambient digital residue at 1/100th the cost and 1/240th the time of human investigation, defeating every consent-and-control privacy framework.
 ---
 

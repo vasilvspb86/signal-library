@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: tripcom-morningstar-securities-duplicate
 name: Trip.com / Morningstar — Securities Class Action Restatement
 year: 2026
 url: https://www.morningstar.com/news/pr-newswire/20260324sf17889/tripcom-group-tcom-shares-crater-amid-questions-over-ai-price-adjustment-tool-anti-monopoly-regulatory-probe-securities-class-action-pending-hagens-berman
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Travel
 human_task: Hold AI platform operators legally accountable when undisclosed regulatory risk in AI pricing tools causes investor harm at market scale.
 existential_essence: Hold AI platform operators legally accountable when undisclosed regulatory risk in AI pricing tools causes investor harm at market scale.
@@ -18,7 +18,7 @@ time_horizon: 2025–2026
 disruptiveness: Major
 tags: []
 shift_from: AI pricing tools promoted as strategic cornerstones with effective governance, shielding management from investor accountability for regulatory exposure.
-shift_to: 'Securities class actions make AI tool regulatory concealment a liability event: $8B market cap wiped on disclosure of anti-monopoly probe into AI-coerced hotel pricing.'
+shift_to: Securities class actions make AI tool regulatory concealment a liability event: $8B market cap wiped on disclosure of anti-monopoly probe into AI-coerced hotel pricing.
 ---
 
 # Trip.com / Morningstar — Securities Class Action Restatement

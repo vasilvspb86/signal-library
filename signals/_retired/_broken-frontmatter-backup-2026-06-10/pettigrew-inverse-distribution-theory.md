@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: pettigrew-inverse-distribution-theory
 name: Inverse Distribution Theory — Joe Pettigrew
 year: 2026
 url: https://www.joepettigrew.com/inverse-distribution-theory/
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Hospitality
 human_task: Shift competitive investment from buying shelf visibility to building the qualification signals and experience distinctiveness that earn recommendation from machines before the traveller sees anything.
 existential_essence: Shift competitive investment from buying shelf visibility to building the qualification signals and experience distinctiveness that earn recommendation from machines before the traveller sees anything.
@@ -17,7 +17,7 @@ diffusion_stage: Early Adopter
 time_horizon: 2026–2028
 disruptiveness: Major
 tags: []
-shift_from: 'Commercial advantage flowed from awareness: being listed in the right places, ranking well, and converting once a traveller entered the funnel.'
+shift_from: Commercial advantage flowed from awareness: being listed in the right places, ranking well, and converting once a traveller entered the funnel.
 shift_to: Consideration moves first—the AI qualifies before the traveller is aware—so experience quality and structured data clarity determine whether a hotel exists at all in the recommendation set.
 ---
 

@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: hybrid-horizons-ai-accountability-law
-name: '"When the AI Did It, Who Did It?" — Legal Accountability Essay'
+name: "When the AI Did It, Who Did It?" — Legal Accountability Essay
 year: 2026
 url: https://hybridhorizons.substack.com/p/when-the-ai-did-it-who-did-it
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Society
 human_task: Establish that 'the AI decided' cannot function as a complete legal sentence — and that responsibility must flow upward to the humans who built, deployed, and profited from the system.
 existential_essence: Establish that 'the AI decided' cannot function as a complete legal sentence — and that responsibility must flow upward to the humans who built, deployed, and profited from the system.

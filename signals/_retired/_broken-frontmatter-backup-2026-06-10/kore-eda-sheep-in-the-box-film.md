@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: kore-eda-sheep-in-the-box-film
 name: Kore-eda – Sheep in the Box
 year: 2026
 url: https://www.koreatimes.co.kr/entertainment/films/20260607/kore-eda-explores-human-nature-imagination-in-sheep-in-the-box
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Society
 human_task: Hold the emotional reality of a lost person through imagination rather than through a technological substitute that simulates their presence.
 existential_essence: Hold the emotional reality of a lost person through imagination rather than through a technological substitute that simulates their presence.
@@ -18,7 +18,7 @@ time_horizon: Released June 10, 2026 in Korea; Cannes 2026 competitor
 disruptiveness: Minor
 tags: []
 shift_from: Grief and absence were managed through memory, ritual, and human relationship; no interactive substitute for a lost person existed.
-shift_to: 'AI resurrection services make a simulated version of a deceased person available on demand — Kore-eda''s film names the human task underneath the technology: not to recreate the person, but to sustain the inner life that loved them.'
+shift_to: AI resurrection services make a simulated version of a deceased person available on demand — Kore-eda's film names the human task underneath the technology: not to recreate the person, but to sustain the inner life that loved them.
 ---
 
 # Kore-eda – Sheep in the Box

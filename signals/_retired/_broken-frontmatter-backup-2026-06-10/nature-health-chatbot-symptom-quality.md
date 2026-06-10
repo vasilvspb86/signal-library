@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: nature-health-chatbot-symptom-quality
-name: 'Nature Health: Symptom Reporting Quality Study'
+name: Nature Health: Symptom Reporting Quality Study
 year: 2026
 url: https://www.nature.com/articles/s44360-026-00116-y
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Health
 human_task: Preserve the richness of self-reported health narrative when the listener is perceived as a machine rather than a person who will be held accountable for missing something.
 existential_essence: Preserve the richness of self-reported health narrative when the listener is perceived as a machine rather than a person who will be held accountable for missing something.

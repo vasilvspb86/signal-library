@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: axis-of-agency-autonomy-erosion
-name: 'UNCX — ''The Axis of Agency'': Automated Convenience Eroding Human Choice'
+name: UNCX — 'The Axis of Agency': Automated Convenience Eroding Human Choice
 year: 2026
 url: https://uncx.substack.com/p/ai-and-the-axis-of-agency
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Society
 human_task: Give individuals control over their own decision-making resources by naming and resisting the slow outsourcing of personal agency to AI systems that anticipate, filter, and pre-select on their behalf.
 existential_essence: Give individuals control over their own decision-making resources by naming and resisting the slow outsourcing of personal agency to AI systems that anticipate, filter, and pre-select on their behalf.

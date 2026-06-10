@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: roukas-gaipan-agentic-web-travel-distribution
 name: GAIPAN — The Silent Build of the Agentic Web
 year: 2026
 url: https://www.hospitalitynet.org/opinion/4131808/the-silent-build-of-the-agentic-web-and-the-coming-shift-in-travel-distribution
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Travel
 human_task: Establish a hotel's qualification and differentiation signal before AI agents lock in the recommendation infrastructure that will determine future demand.
 existential_essence: Establish a hotel's qualification and differentiation signal before AI agents lock in the recommendation infrastructure that will determine future demand.
@@ -17,7 +17,7 @@ diffusion_stage: Early Adopter
 time_horizon: 2026–2028
 disruptiveness: Major
 tags: []
-shift_from: 'Distribution advantage came from shelf presence: being listed on OTAs, ranking within them, and converting demand through optimised booking flows.'
+shift_from: Distribution advantage came from shelf presence: being listed on OTAs, ranking within them, and converting demand through optimised booking flows.
 shift_to: The aggregation function moves into the consumer-side agent harness; hotels must qualify for machine parsing and differentiate through structured experience signals before the traveller sees anything.
 ---
 

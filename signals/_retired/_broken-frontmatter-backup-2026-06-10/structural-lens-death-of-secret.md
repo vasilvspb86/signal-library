@@ -1,13 +1,13 @@
 ---
 status: draft
-captured_at: '2026-06-08'
+captured_at: 2026-06-08
 captured_via: signal-compass-web-research
 schema_version: 1
 id: structural-lens-death-of-secret
-name: '"The Death of the Secret" — Radical Inferability Essay'
+name: "The Death of the Secret" — Radical Inferability Essay
 year: 2026
 url: https://harmoniousdiscourse.substack.com/p/the-death-of-the-secret
-source_channel: Exa neural search
+source_channel: 'Exa neural search'
 domain: Society
 human_task: Protect the unspoken inner life as the foundational condition of selfhood, intimacy, and political dissent — now that inference can reconstruct what was never disclosed.
 existential_essence: Protect the unspoken inner life as the foundational condition of selfhood, intimacy, and political dissent — now that inference can reconstruct what was never disclosed.
