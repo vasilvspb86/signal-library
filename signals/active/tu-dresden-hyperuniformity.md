@@ -1,5 +1,5 @@
 ---
-status: draft
+status: verified
 captured_at: 2026-05-29
 captured_via: boosty-ai-extract
 verified_at: 2026-05-29
@@ -8,25 +8,22 @@ id: tu-dresden-hyperuniformity
 name: TU Dresden Hyperuniformity Exhibit
 year: 2024
 url: https://technischesdesign.mw.tu-dresden.de/blog/diplomarbeit-sebastian-stege/
-source_channel: 'Boosty: trendwatching'
+source_channel: "Boosty: trendwatching"
 domain: Education
-human_task: How can I take responsibility for cultivating my curiosity by physicalizing
-  abstract complexity?
-existential_essence: Design becomes a deliberate trainer of cognitive meta-skills
-  rather than a decorative surface.
+human_task: How can I take responsibility for cultivating my curiosity by physicalizing abstract complexity?
+existential_essence: Design becomes a deliberate trainer of cognitive meta-skills rather than a decorative surface.
 compas_segment: 7
 macrotrend: Physicalisation
 diffusion_stage: Emerging
 time_horizon: 5–9
 disruptiveness: Moderate
 tags:
-- '#meta_cognitive_design'
-- '#design_for_curiosity'
-- '#science_communication'
-- '#hyperuniformity'
+  - "#meta_cognitive_design"
+  - "#design_for_curiosity"
+  - "#science_communication"
+  - "#hyperuniformity"
 shift_from: Design treats curiosity as a byproduct of aesthetics or efficiency
-shift_to: Design is explicitly engineered as a meta-cognitive trainer for skills like
-  curiosity
+shift_to: Design is explicitly engineered as a meta-cognitive trainer for skills like curiosity
 ---
 
 # TU Dresden Hyperuniformity Exhibit
